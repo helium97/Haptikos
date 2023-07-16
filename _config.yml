@@ -1,2 +1,10 @@
 gems:
   - jekyll-seo-tag
+
+
+----------
+layout: default
+title: Haptikós Design Toolkit
+description: Design and prototype dynamic vibrotactile interfaces.
+image: /images/HaptikosOpenGraph.jpg
+----------
